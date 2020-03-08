@@ -1,5 +1,5 @@
 ## Personal info
-  Name: Simin
-  Last Name: Eftekhari
+  * Name: Simin
+  * Last Name: Eftekhari
 
 
